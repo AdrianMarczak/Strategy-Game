@@ -6,3 +6,8 @@ Though there are a few bugs associated with the "buy land" option, the rest of t
 Screenshots:
 
 
+
+![image](https://github.com/AdrianMarczak/Strategy-Game/assets/166059177/7687824b-b918-47fc-a8d3-7a4eaec12243)
+
+
+![image](https://github.com/AdrianMarczak/Strategy-Game/assets/166059177/970768fe-28dc-439e-96f9-3caf9f070158)
